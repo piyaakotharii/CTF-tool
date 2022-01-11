@@ -31,4 +31,6 @@ Vigenère Cipher
 Hashing Functions Block Ciphers 
 Stream Ciphers
 
+![image](https://user-images.githubusercontent.com/82086586/148938470-c0fe139c-e452-4156-bd2a-a4d03194ad61.png)
+![image](https://user-images.githubusercontent.com/82086586/148938501-303bf208-28d5-4fae-8420-d02e0d05c2de.png)
 
